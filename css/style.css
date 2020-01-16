@@ -5,3 +5,7 @@
 .fg-green {
     color: greenyellow;
 }
+
+body {
+    padding-top: 59px;
+}
