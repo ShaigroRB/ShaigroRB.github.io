@@ -23,6 +23,7 @@ citations = [
                 new Citation("The best time to plant a tree is twenty five years ago. The second best time is now.", "Chinese proverb"),
                 new Citation("Music discovered by accident has the most dopamine.", "Paul Oketch", "a truthful commenter on youtube"),
                 new Citation("La moitié d'un ami, c'est la moitié d'un traitre.", "Victor Hugo"),
+                new Citation("Premature optimization is the root of all evil.", "Donald Knuth"),
                 new Citation("Ils ne faut pas prendre les gens pour des cons, mais il ne faut pas oublier qu'ils le sont.", "Les Inconnus"),
                 new Citation("Never argue with an idiot. They will drag you down to their level and beat you with experience.", "Mark Twain"),
                 new Citation("It's hard to win an argument with a smart person, but it's damn near impossible to win an argument with a stupid person.", "Bill Murray"),
