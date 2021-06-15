@@ -9,7 +9,7 @@ aliases = ["about-us", "contact"]
 I'm a French Software Developer. Shaigro is the main nickname I use, hence the name of the blog (*surprising, ain't it?*).
 
 This blog has multiple purposes:
-1. I'm not someone who is good at explaining stuff, even if it something I made. I hope that writing about my projects and experimentations will help me to improve.
+1. I'm not someone who is good at explaining stuff, even if it is something I made. I hope that writing about my projects and experimentations will help me to improve.
 2. Blogs are one of the main source of learning and help I've come across. I got a lot from blogs and I want to give back to the community, even if it's only a small contribution.
 3. Having a way to tell about what am I working on is the best way for me to keep on working on it.
 
