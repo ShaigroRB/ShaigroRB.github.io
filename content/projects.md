@@ -4,29 +4,29 @@ description = "Some projects I made. Essentially about programming."
 aliases = ["projects"]
 +++
 
-List of projects ideas that I keep somewhat updated *(light mode, be careful)*. - [link](https://hackmd.io/@tYTq4U8GTF2YypVkdVWotA/prog-ideas)
+List of projects ideas that I keep somewhat updated. - [link](https://hackmd.io/@tYTq4U8GTF2YypVkdVWotA/prog-ideas)
 
 ## Personal projects
 ### Boring Man - OTSC
-- bm-rcon - [link](https://github.com/ShaigroRB/bm-rcon)  
+- [bm-rcon](https://github.com/ShaigroRB/bm-rcon)  
     :arrow_forward: *C# library for Boring Man RCON scripting*
-- bm-mods - [link](https://github.com/ShaigroRB/bm-mods)  
+- [bm-mods](https://github.com/ShaigroRB/bm-mods)  
     :arrow_forward: *Collection of mods of Boring Man using RCON*
-- Random skins generator - [link](https://shaigrorb.github.io/random-generators-boring-man/skin-generator.html)
+- [Random skins generator](https://shaigrorb.github.io/random-generators-boring-man/skin-generator.html)
 
 ### Extensions
-- Don't you dare! - [link](https://github.com/ShaigroRB/dont-you-dare)  
+- [Don't you dare!](https://github.com/ShaigroRB/dont-you-dare)  
     :arrow_forward: *A dumb chrome extension that asks for confirmation to close tabs when you use Ctrl+W.*
 
 ### Scripts
-- setup-proxy - [link](https://github.com/ShaigroRB/setup-proxy)  
+- [setup-proxy](https://github.com/ShaigroRB/setup-proxy)  
     :arrow_forward: *Script to setup proxy for multiple commands (docker, pip, git, ...)*
-- free-space - [link](https://github.com/ShaigroRB/free-space)  
+- [free-space](https://github.com/ShaigroRB/free-space)  
     :arrow_forward: *Collection of scripts to free space on Archlinux*
 
 ### School related
-- Notes I took during the last 3 years - [link](https://shaigrorb.github.io/notes-epita-ing/)
-- tc-setup - [link](https://github.com/ShaigroRB/tc-setup)
+- [Notes I took during the last 3 years](https://shaigrorb.github.io/notes-epita-ing/)
+- [tc-setup](https://github.com/ShaigroRB/tc-setup)
 
 ## School projects
 - Planify  
