@@ -1,0 +1,11 @@
+{{ $caption := (.Get "caption") }}
+{{ $src := (.Get "src") }}
+
+<figure>
+    <img class="border" loading="lazy" src="{{ $src }}" {{ with $caption }}title="{{ . }}" alt="{{ . }}" {{ end }} />
+
+    {{ with $caption }}
+    <figcaption>{{ . }}</figcaption>
+    {{ end }}
+
+</figure>

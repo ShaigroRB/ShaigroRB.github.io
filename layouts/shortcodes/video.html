@@ -1,0 +1,14 @@
+{{ $bg := (.Get "bg") }}
+{{ $caption := (.Get "caption") }}
+{{ $src := (.Get "src") }}
+
+<figure>
+    <video class="rb_custom border" autoplay loop muted playsinline {{ with $caption }} title="{{ . }}"
+        aria-label="{{ . }}" {{ end }} style="background-color: {{ $bg }};">
+        <source src="{{ $src }}" type="video/webm">
+        <p> Your browser does not support video. </p>
+    </video>
+    {{ with $caption }}
+    <figcaption>{{ . }}</figcaption>
+    {{ end }}
+</figure>
