@@ -35,7 +35,7 @@ paginate = 7
   # Each value will become a paragraph
   # Keep it as an array  footerText = [ "Made with [Hugo](https://gohugo.io) | Theme [Color Your World](https://gitlab.com/rmaguiar/hugo-theme-color-your-world)" ]
   footerText = [
-    "[Shaigro](/) · [About](/about) · [Posts](/posts) · [Projects](/projects) · [Tags](/tags)"
+    "[GitHub](https://github.com/ShaigroRB) · [About](/about) · [Posts](/posts) · [Projects](/projects) · [Tags](/tags)"
   ]
 
   
