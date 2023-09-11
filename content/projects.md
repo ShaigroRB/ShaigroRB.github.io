@@ -10,6 +10,8 @@ List of projects ideas that I keep somewhat updated. - [link](https://hackmd.io/
 
 ### Web apps
 
+- [Freetchio](https://shaigrorb.github.io/freetchio/)  
+   :arrow_forward: _Find 100% discounts on itch.io_
 - [tubav](https://tubav.shaigro.dev/)  
    :arrow_forward: _Avatar generator inspired of the game "The Ultimatest Battle"._
 
