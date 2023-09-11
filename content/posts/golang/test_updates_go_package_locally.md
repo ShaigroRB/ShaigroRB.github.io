@@ -2,6 +2,7 @@
 title: "How to locally test changes to a golang module"
 date: 2023-03-05T13:53:28+01:00
 tags: ["golang", "go"]
+category: ["tutorial"]
 ---
 
 ## Problem
